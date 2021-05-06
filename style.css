@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+.auditoriumDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 1px;
+    padding-right: 1px;
+    float: none
+}
+.achievements i {
+    float: right;
+}
+.achievements{
+   font-size: 25px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.achievements img{
+    height: 35px;
+    width: 50px;
+}
+#footbal_tmt{
+    margin-bottom: 5px;
+}
+#100m_run_race{
+    margin-top: 5px;
+}
+.new_li p{
+    padding-top: 50px;
+}
+.new_li{
+    border-radius: 15px;
+}
+#shoes{
+    margin-top: 15px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.me{
+    cursor: pointer;
+}
